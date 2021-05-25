@@ -1,5 +1,7 @@
-# hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+# 배달 서비스 
 
-This repository is built step by step in the tutorial.
+1
+> 1차 구현 : 5월 24-25 <br>
+>         관련 내용 : https://www.notion.so/75fd5123f963412ea260ebad87471668<br>
+> 개선할 점 : 배달비 추가, 오류 처리 관련 부분 
+          
